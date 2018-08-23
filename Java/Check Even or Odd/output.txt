@@ -1,0 +1,7 @@
+> java MyClass
+Enter a number 20
+20 is Even.
+
+> java MyClass
+Enter a number 23
+23 is Odd.
