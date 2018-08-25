@@ -1,0 +1,11 @@
+for simple array -
+Jane
+Jack
+Devon
+Karl
+Kenny
+
+for associative array -
+First - Gold Medal
+Second - Silver Medal
+Third - Bronze Medal

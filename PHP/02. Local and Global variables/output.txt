@@ -1,0 +1,3 @@
+Name inside function - John
+Name outside function - Jane
+Name inside 2nd function - Jane

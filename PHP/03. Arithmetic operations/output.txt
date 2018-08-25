@@ -1,0 +1,5 @@
+Sum is 26
+Difference is 18
+Product is 88
+Modulus is 2
+Pre-Increment of 22 is 23

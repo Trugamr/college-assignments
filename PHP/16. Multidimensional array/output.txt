@@ -1,0 +1,4 @@
+Phone Specifications -
+Apple - 2GB RAM, 16GB Storage.
+Moto - 4GB RAM, 32GB Storage.
+Samsung - 3GB RAM, 64GB Storage.

@@ -1,0 +1,5 @@
+Index array -
+Array ( [0] => 10 [1] => 20 [2] => 30 [3] => 40 )
+
+Associative array -
+Array ( [Jane] => 30 [Ron] => 40 [0] => Kyle [1] => 25 [Devon] => 20 ) 

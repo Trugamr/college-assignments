@@ -1,0 +1,7 @@
+Name - Jane & Age - 20 at start.
+
+Call by value | Age of Jane is 20
+Name - Jane & Age - 20 after call by value function.
+
+Call by refernce | Age of Jane is 20
+Name - Devon & Age - 23 after call by value function. 

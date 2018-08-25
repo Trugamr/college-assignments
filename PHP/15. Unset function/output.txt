@@ -1,0 +1,3 @@
+Array before unset - Array ( [0] => Ron [1] => Harry [2] => Draco [3] => James )
+
+Array after unset - Array ( [0] => Ron [1] => Harry [3] => James ) 

@@ -1,0 +1,3 @@
+Array before splicing - Array ( [0] => Rohan [1] => Raghav [2] => Rajesh )
+
+Array after splicing - Array ( [0] => Rohan [1] => Sohail [2] => Sumit ) 
