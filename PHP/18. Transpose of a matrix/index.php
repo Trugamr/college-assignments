@@ -5,7 +5,7 @@
         array(7, 8, 9)
     );
     
-    echo "MARIX - <br>";
+    echo "MARTIX - <br>";
     printArray($matrix);
 
     echo "<br><br>TRANSPOSE - <br>";
