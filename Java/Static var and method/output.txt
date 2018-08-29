@@ -1,0 +1,4 @@
+This function is called without creating an object
+Count for object o1 - 3
+Count for object o2 - 3
+Count for object o3 - 3
