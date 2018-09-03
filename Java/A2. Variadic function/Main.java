@@ -1,8 +1,10 @@
 class Main {
     public static void main(String[] args) {
         Main o = new Main();
-        float avg = o.getAvg(1, 2, 3, 4, 6, 7, 8, 9);
-        System.out.print(avg);
+        float avg1 = o.getAvg(1, 2, 3, 4, 6, 7, 8, 9);
+        float avg2 = o.getAvg(20, 30, 90, 50); 
+        System.out.print(avg1 + "\n");
+        System.out.print(avg2);
     }
 
     float getAvg(int... arr) {
