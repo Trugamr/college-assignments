@@ -1,4 +1,0 @@
-
-Name and age inside method - Jai Wolf, 23
-Name and age outside method accessed using this keyword - Jane Doe, 20
-Changed global name and age variables using this operator - Harry Potter, 24

@@ -1,0 +1,7 @@
+> java MyClass
+Enter a number 153
+153 is an armstrong number.
+
+> java MyClass
+Enter a number 342
+342 is not an armstrong number.

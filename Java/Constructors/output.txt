@@ -1,5 +1,0 @@
-> java MyClass
-Defaut Constructor Called
-Roll No. - 0 |  Name - null
-Roll No. - 101 |  Name - John
-Copied - Roll No. - 101 |  Name - John

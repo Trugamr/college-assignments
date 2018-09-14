@@ -1,0 +1,33 @@
+> java Bank
+
+Choose -
+1.Create Account
+2.Login Account
+3.Deposit
+4.Withdraw
+5.Check Balance
+(any other key to exit)
+
+
+Enter Choice 1
+Enter name for new account John
+Account with name John created sucessfully.
+
+Enter Choice 2
+Enter name of account to login John
+
+John logged in.
+
+Enter Choice 3
+Enter amount to deposit 2000
+
+2000 credited to John, current balance is now Rs. 2000
+Enter Choice 4
+Enter amount to withdraw 500
+
+500 debited from John, current balance is now Rs. 1500
+Enter Choice 4
+Enter amount to withdraw 2000
+
+Not enough balance, current account balance is 1500
+Enter Choice 6
