@@ -1,0 +1,1 @@
+Average for 5 items with sum 177.0 is 35.4
