@@ -12,5 +12,13 @@ class Main {
         ps.println("Last index of \"e\" - " + s.lastIndexOf('e'));
         ps.println("Character at index 6 - " + s.charAt(6));
         ps.println("String after concatenating \" Home\" - " + s.concat(" Home."));
+        ps.println("String afte replacing \"lcom\" with \"bsite\" - " + s.replace("lcome", "bsite"));
+
+        String s2 = "welcome";
+        if(s.equals(s2)) {
+            ps.println("First and second string equal");
+        } else {
+            ps.println("First and second string are not equal");
+        }
     }
 }
