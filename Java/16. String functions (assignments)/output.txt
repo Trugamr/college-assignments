@@ -1,0 +1,9 @@
+String is "Welcome!"
+Length of String - 8
+Starting index of "come" - 3
+Index of 'e' after 3rd index - 6
+Last index of "e" - 6
+Character at index 6 - e
+String after concatenating " Home" - Welcome! Home.
+String afte replacing "lcom" with "bsite" - Website!
+First and second string are not equal
