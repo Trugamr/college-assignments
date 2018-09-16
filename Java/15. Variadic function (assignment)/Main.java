@@ -3,8 +3,8 @@ class Main {
         Main o = new Main();
         float avg1 = o.getAvg(1, 2, 3, 4, 6, 7, 8, 9);
         float avg2 = o.getAvg(20, 30, 90, 50); 
-        System.out.print(avg1 + "\n");
-        System.out.print(avg2);
+        System.out.print("Average of 8 items - " + avg1 + "\n");
+        System.out.print("Average of 4 items - " + avg2);
     }
 
     float getAvg(int... arr) {
