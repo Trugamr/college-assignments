@@ -1,0 +1,6 @@
+strpos() function to find position of "wo" - 6
+substr() function to get substring from 6th index with length 3 - wor
+ucwords() function to capitalize first character of word - Hello World
+strrev() function to reverse string - dlrow olleh
+strlen() function to get lenght of string - 11
+strreplace() function to replace charcter 'o' with 'x' - hellx wxrld

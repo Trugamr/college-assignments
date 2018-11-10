@@ -1,0 +1,5 @@
+print_r() function to print array values with indexes - Array ( [0] => 20 [1] => 2 [2] => 8 [3] => 5 [4] => 9 ) 
+array_sum() function to return sum of values of array - 44
+asort() function to sort array - 2  5  8  9  20  
+asort() function to sort array in descending order - 20  9  8  5  2  
+array_slice() function to return selected parts of array - 9  8  5  
