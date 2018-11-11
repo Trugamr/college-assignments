@@ -1,0 +1,6 @@
+NAME : Jane Doe 
+FATHER_NAME : Arthur Doe 
+AGE : 19 
+GENDER : female 
+DOB : 1999-10-02 
+PHOTO : myPhoto.jpg 
