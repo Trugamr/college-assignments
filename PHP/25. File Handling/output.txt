@@ -1,0 +1,2 @@
+Size of file is - 16 bytes 
+Data inside file is - "Have a nice day."

@@ -1,0 +1,8 @@
+Directory successfully created 
+
+Files insidde "pets" directory -
+filename: cat.png 
+filename: dog.png 
+filename: info.txt 
+
+"fruits" directory removed successfully
