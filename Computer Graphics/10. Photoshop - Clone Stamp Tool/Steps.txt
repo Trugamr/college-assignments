@@ -1,0 +1,7 @@
+1. Open the image you want to clone object in using File menu and clicking Open.
+2. Select the image file and click Open.
+3. Select the close stamp tool from toolbox on left side or press S key.
+4. With the Clone Stamp tool selected, position the cursor over the area you want to clone and then Alt-click to define the clone source.
+5. Position the cursor over the area where you want to paint the cloned pixels and then start painting.
+6. Note the cross hair at the original sampled area. While you’re painting, the cross hair follows the pixels you’re cloning.
+7. Save the image using File menu and clicking the save as option.

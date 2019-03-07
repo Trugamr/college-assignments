@@ -6,7 +6,7 @@
 void main()
 {
 int gd=DETECT, gm, x, y, i;
-initgraph(&gd,&gm,"C:TurboC3\BIN");
+initgraph(&gd,&gm,"C:\TurboC3\BIN");
 	while(!kbhit()) {
 		x=rand();
 		y=rand();

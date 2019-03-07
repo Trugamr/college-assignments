@@ -1,0 +1,7 @@
+1. Open the image by clicking File menu then seleciting the Open option.
+2. Select the image file by clicking on it then click the Open button.
+3. Press T or select the Type Tool from toolbox at left side.
+4. Type the text you want to add.
+5. You can also change it's properties like Color, Typeface, Size etc from Type tools options bar at top.
+6. To move the text use the Move tool and drag the text by holding left mouse button where ever you desire.
+7. Finally save the file using File menu Save as option. 

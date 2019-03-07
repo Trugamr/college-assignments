@@ -1,0 +1,8 @@
+1. Create a new file by going to File menu and clicking New option.
+2. Enter the required size for the collage image file.
+3. Open images by going into File menu and clicking Open.
+4. You can either select image one by one by repeating step 3 or select all images at once by holding shift and clicking on the images then click Open.
+5. Select the Move tool and navigate to image you would like to add and hold and drag the image onto the collage image window.
+6. Image can also be resized by right clicking the image and choosing Transform option.
+7. Repeat steps 5 and 6 for all the images you would like to add in collage.
+8. Navigate to File menu and click on save as option to save your collage in image format of your choice.
